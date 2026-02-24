@@ -2,32 +2,33 @@
 
 1. Data Collection
 The application does not collect personal data beyond the information voluntarily entered by users for financial tracking purposes.
+Financial information entered by users may constitute personal data depending on local laws; such data remains stored locally and is never transmitted to the developer.
 
-2. Local Data Storage
+3. Local Data Storage
 All financial records, transaction data, and settings are stored locally on the user's device. The developers do not receive, transmit, or store user financial data on external servers.
 
-3. No Data Sharing
+4. No Data Sharing
 The application does not sell, rent, disclose, or share any user data with third parties, advertisers, government entities, or external organizations, except where required by applicable law.
 
-4. No Remote Access
+5. No Remote Access
 The developers have no remote access to user data stored within the application.
 
-5. Data Security
+6. Data Security
 Reasonable technical safeguards are implemented to protect data stored within the application; however, no system can guarantee absolute security. Users are responsible for securing their own devices.
 
-6. User Responsibility
+7. User Responsibility
 Users are solely responsible for backing up their data and maintaining device security.
 
-7. Children's Privacy
-The application does not knowingly collect personal information from children.
+8. Children's Privacy
+The application is not directed toward children and does not knowingly collect or transmit personal information. Any data entered by users remains stored locally on their device.
 
-8. Policy Updates
+9. Policy Updates
 This Privacy Policy may be updated periodically. Continued use of the application constitutes acceptance of any revisions.
 
-9. Legal Compliance
+10. Legal Compliance
 This policy is intended to comply with applicable international data protection laws, including general principles found in regulations such as GDPR, CCPA, and similar frameworks.
 
-10. Contact
+11. Contact
 Questions regarding this policy should be directed to the application developer via official support channels.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -53,6 +54,7 @@ This limitation applies even if such parties have been advised of the possibilit
 Nothing in this disclaimer is intended to limit liability where such limitation is prohibited by applicable law. Where local law does not permit full exclusion of liability, liability shall be limited to the maximum extent permitted.
 
 By using, modifying, or distributing this program, you acknowledge and accept the terms of this disclaimer in conjunction with the GNU Affero General Public License.
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
