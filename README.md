@@ -1,3 +1,49 @@
+## Terms of Use
+
+### 1. Acceptance of Terms
+
+By using, copying, modifying, or distributing this software, you agree to comply with these Terms of Use and the terms of the GNU Affero General Public License Version 3 (AGPLv3), or any later version.
+
+### 2. License
+
+This software is licensed under the GNU Affero General Public License Version 3 (AGPLv3). You may use, modify, and distribute this software in accordance with the terms of that license.
+
+### 3. Intended Use
+
+This software is intended for personal financial organization and informational purposes only. It does not constitute financial, legal, tax, investment, or professional advice.
+
+### 4. Prohibited Conduct
+
+Users may not use the software in a manner that:
+
+* Violates any applicable laws or regulations
+* Causes harm to others or their property
+* Attempts to exploit, disrupt, or compromise computer systems or data
+* Misrepresents the origin or authorship of the software
+* Violates the terms of the AGPL license
+
+### 5. User Responsibility
+
+Users are solely responsible for verifying the accuracy of financial information entered into the software and for maintaining backups of their data.
+
+### 6. No Warranty
+
+This software is provided “AS IS” without warranty of any kind, as stated in the GNU Affero General Public License.
+
+### 7. Limitation of Liability
+
+To the maximum extent permitted by applicable law, the developers and contributors shall not be liable for any damages arising from the use or inability to use the software.
+
+### 8. Changes to These Terms
+
+These Terms of Use may be updated periodically. Continued use of the software after updates constitutes acceptance of the revised terms.
+
+### 9. Governing License
+
+If any provision of these Terms conflicts with the GNU Affero General Public License, the AGPL license terms shall prevail.
+
+---
+
 ## Privacy Policy
 
 1. Data Collection
